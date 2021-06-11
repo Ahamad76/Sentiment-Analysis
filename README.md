@@ -3,4 +3,4 @@ Sentiment analysis is the systematic identification, extraction, and study of su
 
 Natural Language Processing (NLP) is one of research area in data science and sentiment analysis is one of the most common applications of NLP. From opinion polls to marketing strategies, this area reshaped the way businesses work, thats why every data scientist or engineer must know this. 
 
-This work is an attempt of text classification on twitter text datas— the task is to predict whether a tweet is positive or negative about Apple Inc. The data can be downloaded from https://data.world/crowdflower/apple-twitter-sentiment.
+This work is an attempt of text classification on twitter text datas— the task is to predict whether a tweet is positive or negative about Apple Inc. The data can be downloaded from https://www.crowdflower.com/data-for-everyone/.
